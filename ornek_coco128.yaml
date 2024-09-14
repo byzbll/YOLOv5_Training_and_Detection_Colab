@@ -1,0 +1,12 @@
+
+train: /../train/images
+val: /../val/images
+
+# Classes
+nc: 4
+names:
+  0: motor
+  1: kamyon
+  2: araba
+  3: insan
+  
